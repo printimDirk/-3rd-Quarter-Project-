@@ -13,7 +13,7 @@ And its uses are to convert measurements.
    cd -3rd-Quarter-Project-
 
  3. Run the program:
-   python main.py
+    3rd Quarter Project.py
 
 ## 🎯 Goal
 The goal of this project is to create a **measurement converter** that allows users to easily convert between different units (e.g., centimeters to inches, kilograms to pounds, Celsius to Fahrenheit).  
