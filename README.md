@@ -13,6 +13,6 @@ And its uses are to convert measurements.
    '''bash
    cd -3rd-Quarter-Project-
 
- 3.Run the program:
+ 3. Run the program:
    '''bash
    python main.py
