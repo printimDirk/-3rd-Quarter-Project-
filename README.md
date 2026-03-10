@@ -18,6 +18,10 @@ And its uses are to convert measurements.
 ## 🎯 Goal
 The goal of this project is to create a **measurement converter** that allows users to easily convert between different units (e.g., centimeters to inches, kilograms to pounds, Celsius to Fahrenheit).  
 This helps users calculate different measurements in everyday use.
+- Handling user input
+- Using dictionaries/lists for options
+- Applying formulas for unit conversion
+- Writing clear and interactive Python programs
 
 ## 👨‍💻 Authors
 Zach (Code creator)
