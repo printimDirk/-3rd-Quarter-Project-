@@ -10,9 +10,7 @@ And its uses are to convert measurements.
    git clone https://github.com/printimDirk/-3rd-Quarter-Project-.git
 
 2. Open the folder:
-   '''bash
    cd -3rd-Quarter-Project-
 
  3. Run the program:
-   '''bash
    python main.py
