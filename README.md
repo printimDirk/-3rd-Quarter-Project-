@@ -20,8 +20,8 @@ The goal of this project is to create a **measurement converter** that allows us
 This helps users calculate different measurements in everyday use.
 
 ## 👨‍💻 Authors
-Dirk (Code creator)
+Zach (Code creator)
 
-Zach (ReadMe.file)
+Dirk (ReadMe.file)
 
-TJ (Github repository)
+
